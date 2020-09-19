@@ -445,6 +445,7 @@
 @media (max-width: 450px){
     .modal_window {
         width: 90%;
+        max-height: 80vh;
     }
 }
 @media (max-width: 425px) {
@@ -519,6 +520,7 @@
     }
     .modal_textarea {
         width: 90%;
+        height: auto;
     }
     .modal_form {
         padding: 18px 10px 25px;
