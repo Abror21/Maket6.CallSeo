@@ -446,6 +446,7 @@
     .modal_window {
         width: 90%;
         max-height: 80vh;
+        overflow: auto;
     }
 }
 @media (max-width: 425px) {
