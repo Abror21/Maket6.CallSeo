@@ -863,7 +863,7 @@ td {
 }
 
 .modal_window {
-    overflow: hidden;
+    overflow: auto;
     background: #fff;
     width: 470px;
     position: fixed;
